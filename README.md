@@ -1,6 +1,6 @@
 <h1 align="center">iPhone12 Page usando HTML5, CSS3 & JavaScript</h1>
 
-<p>Neste repositório criamos um efeito com botões de up & down para mostrar as características do iPhone12 em um website design utilizando html5, css3 & javascript com <a href="https://youtu.be/wYT8_1ivV-4">vídeo aula</a> em nosso <a href="https://www.youtube.com/channel/UCDUs_tL_rNpmwR3Ep7ZtchA?sub_confirmation=1">Canal do Youtube</a>.</p>
+<p>Neste repositório criamos um efeito com botões de up & down para mostrar as características do iPhone12 em um website design utilizando html5, css3 & javascript com <a href="https://youtu.be/4-PBOIT4zU8">vídeo aula</a> em nosso <a href="https://www.youtube.com/channel/UCDUs_tL_rNpmwR3Ep7ZtchA?sub_confirmation=1">Canal do Youtube</a>.</p>
 
 <a href="https://ifullstack-tv.github.io/iphone12-features-website-html-css-javascript/">Demo</a>
 <a href="https://ifullstack-tv.github.io/iphone12-features-website-html-css-javascript/"><img src="https://github.com/iFullStack-tv/iphone12-features-website-html-css-javascript/blob/main/demo.gif" width="100%"></a>
